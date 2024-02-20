@@ -4,6 +4,6 @@ public class Anya_Anand
     {
 
         System.out.println("Hello anya, from alex");
-        System.out.println("Hello Anya, Hi Alex, from Joshua");
+        System.out.println("Hello Anya, Hello Alex, from Joshua");
     }
 }
